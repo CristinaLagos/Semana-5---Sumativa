@@ -1,8 +1,8 @@
 package org.example.app;
 
-import org.example.app.model.Direccion;
-import org.example.app.model.Persona;
-import org.example.app.model.Empleado;
+import org.example.model.Direccion;
+import org.example.model.Persona;
+import org.example.model.Empleado;
 import org.example.util.Util;
 
 public class Main {
